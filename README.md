@@ -8,8 +8,11 @@ https://chrome.google.com/webstore/detail/reres/gieocpkbblidnocefjakldecahgeeica
 ### 配置ReRes选项
 通过浏览器的 拓展/ReRes/详细信息/拓展选项 进入设置界面
 点击"+"按钮，添加新的规则
+
 其中的"If URL match:"填写https://studyh5.zhihuishu.com/static/js/0.c50211d27ef36136e8bb.js
+
 其中的"Response:"填写https://popchicken.github.io/popchicken.github-io/res/zhihuishu_course/0.c50211d27ef36136e8bb.js
+
 含义是拦截原本的文件并置换成修改过的文件
 
 ---
